@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: "Learning About Markdown in Astro"
 pubDate: 2023-10-01
 description: "Exploring how to use Markdown in Astro projects."
